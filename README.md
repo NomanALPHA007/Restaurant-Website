@@ -13,9 +13,9 @@ Restaurant Website is a simple and elegant web application built with HTML, CSS,
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Menu Page](screenshots/menu.png)
-![Contact Page](screenshots/contact.png)
+![Home Page](./restaurant%20website/images/Screenshot%202024-07-04%201124301.png)
+![Menu Page](./restaurant%20website/images/Screenshot%202024-07-04%20112517.png)
+![Contact Page](./restaurant%20website/images/Screenshot%202024-07-04%20112552.png)
 
 ## Installation
 
